@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "chromakeys",
+	"version": "${version}",
+	"name": "Chroma Keys",
+	"description": "Adds simple Chroma Key blocks for screenshots.",
+	"authors": [
+		"HyperionDash"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/ei0Elz1Y",
+		"sources": "https://github.com/HyperionDash/chromakeys",
+		"issues": "https://github.com/HyperionDash/chromakeys/issues"
+	},
+	"license": "ARR",
+	"icon": "assets/chromakeys/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.hyper.chromakeys.ChromaKeys"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "chromakeys:block/chroma_key",
+  "textures": {
+    "all": "chromakeys:block/red_chroma_key"
+  }
+}

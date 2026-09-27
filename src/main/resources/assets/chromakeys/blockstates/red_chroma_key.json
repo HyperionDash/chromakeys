@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chromakeys:block/red_chroma_key"
+    }
+  }
+}
